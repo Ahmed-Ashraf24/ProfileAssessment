@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ProfileAssignment</string>
+    <!-- Profile Activity -->
+    <string name="back_button">Back</string>
+    <string name="profile">Profile</string>
+    <string name="support">support</string>
+    <string name="member_since">member since %1$s</string>
+    <string name="vehicle_text">get to know your vehicles, inside out</string>
+    <string name="cred_garage">CRED garage</string>
+    <string name="credit_score">credit score</string>
+    <string name="refresh_available">• REFRESH AVAILABLE</string>
+    <string name="lifetime_cashback">lifetime cashback</string>
+    <string name="bank_balance">bank balance</string>
+    <string name="check">check</string>
+    <string name="rewards_benefits">YOUR REWARDS &amp; BENEFITS</string>
+    <string name="cashback_balance">cashback balance</string>
+    <string name="coins">coins</string>
+    <string name="win_upto">win upto Rs 1000</string>
+    <string name="refer_earn">refer and earn</string>
+    <string name="transactions_support">TRANSACTIONS &amp; SUPPORT</string>
+    <string name="all_transactions">all transactions</string>
+
+    <!-- Toast Messages -->
+    <string name="support_clicked">Support clicked</string>
+    <string name="edit_profile_clicked">Edit profile clicked</string>
+    <string name="garage_clicked">CRED garage clicked</string>
+    <string name="credit_score_clicked">Credit score clicked</string>
+    <string name="cashback_clicked">Lifetime cashback clicked</string>
+    <string name="bank_balance_clicked">Bank balance clicked</string>
+    <string name="cashback_balance_clicked">Cashback balance clicked</string>
+    <string name="coins_clicked">Coins clicked</string>
+    <string name="refer_clicked">Refer and earn clicked</string>
+    <string name="transactions_clicked">All transactions clicked</string>
+</resources>
