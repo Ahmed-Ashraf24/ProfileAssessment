@@ -31,19 +31,7 @@ Run the app on an emulator or connected device.
 Kotlin
 Android XML Layout
 
-📂 Project Structure
-pgsql
-Copy
-Edit
-app/
-├── java/
-│   └── com.example.profileapp/
-│       └── ProfileActivity.kt
-├── res/
-│   ├── layout/
-│   │   └── activity_profile.xml
-│   └── drawable/
-│   └── values/
+
 
 
 
