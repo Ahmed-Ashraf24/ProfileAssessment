@@ -14,6 +14,7 @@ Clean and responsive UI following Material Design principles
 Profile Activity
 
 You can find the screenshot inside the /screenshots directory in this repo.
+https://github.com/Ahmed-Ashraf24/ProfileAssessment/blob/master/screanshots/ProfilePage.png
 
 🚀 Getting Started
 To run this project locally:
